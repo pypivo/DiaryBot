@@ -1,0 +1,2 @@
+class IncorrectTime(Exception):
+    pass
